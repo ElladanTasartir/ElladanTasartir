@@ -1,7 +1,7 @@
 ## Erick Malta
 
 ### Hey there 
-<br>
+
 ### Thanks for coming 👌
 
 [![Linkedin Badge](https://img.shields.io/badge/-ErickMalta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-malta-8597a1197/)](https://www.linkedin.com/in/erick-malta-8597a1197/)

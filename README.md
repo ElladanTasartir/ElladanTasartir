@@ -1,6 +1,7 @@
 ### Hey there 👌
 
 [![Linkedin Badge](https://img.shields.io/badge/-ErickMalta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-malta-8597a1197/)](https://www.linkedin.com/in/erick-malta-8597a1197/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickmalta100@gmail.com)](mailto:erickmalta100@gmail.com)
 
 I'm a 20 year Javascript/Typescript Fullstack developer. My github has seen a lot of activity as of late, but that's because I'm studying everyday to become better and better at what I do. It's my passion, really.
 <br>
@@ -9,4 +10,3 @@ I'm a 20 year Javascript/Typescript Fullstack developer. My github has seen a lo
 📫 You can reach me at my email or my LinkedIn:
 <br>
 Email: erickmalta100@gmail.com <br>
-LinkedIn: https://www.linkedin.com/in/erick-malta-8597a1197/

@@ -12,5 +12,7 @@ I'm a 20 year Javascript/Typescript Fullstack developer. My github has seen a lo
 📚 I’m currently learning Typescript and it's usage with some libraries and frameworks and I don't think I'll want to come back to vanilla Javascript so soon, cause TS is just too good to work with.
 <br>
 
-![Elladan's Stats](https://github-readme-stats.vercel.app/api?username=ElladanTasartir&theme=dracula)
+![Elladan's Stats](https://github-readme-stats.vercel.app/api?username=ElladanTasartir)
+
+![Elladan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElladanTasartir&hide=html&layout=compact)
 

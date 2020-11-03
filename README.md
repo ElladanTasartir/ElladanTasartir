@@ -12,7 +12,7 @@ I'm a 20 year Javascript/Typescript Fullstack developer. My github has seen a lo
 📚 I’m currently studying TypeORM and design patterns.
 <br>
 
-![Elladan's Stats](https://github-readme-stats.vercel.app/api?username=ElladanTasartir)
+![Elladan's Stats](https://github-readme-stats.vercel.app/api?username=ElladanTasartir&show_icons=true&theme=tokyonight)
 
-![Elladan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElladanTasartir&hide=html&layout=compact)
+![Elladan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElladanTasartir&hide=html&layout=compact&show_icons=true&theme=tokyonight)
 

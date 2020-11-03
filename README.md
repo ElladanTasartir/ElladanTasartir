@@ -14,5 +14,5 @@ I'm a 20 year Javascript/Typescript Fullstack developer. My github has seen a lo
 
 ![Elladan's Stats](https://github-readme-stats.vercel.app/api?username=ElladanTasartir)
 
-![Elladan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElladanTasartir&hide=html&layout=compact)
+![Elladan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElladanTasartir&hide=html)
 

@@ -14,7 +14,6 @@ I'm a 21 year old Fullstack developer. My github has seen a lot of activity as o
     <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/reactjs.svg" height="40px"/>&nbsp;
     <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/nextjs.svg" height="40px"/>&nbsp;
     <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/nestjs.svg" height="40px"/>&nbsp;
-    <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/typescript.svg" height="40px"/>&nbsp;
     <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/jest.svg" height="40px"/>&nbsp;
     <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/rabbitmq.svg" height="40px"/>&nbsp;
     <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/mongodb.svg" height="40px"/>&nbsp;

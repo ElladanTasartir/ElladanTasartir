@@ -10,6 +10,22 @@ I'm a 21 year old Fullstack developer. My github has seen a lot of activity as o
 <br>
 
 ### My stack currently is:
+<center>
+  <div style="display:flex; justify-content:space-around; width: 100%;">
+    <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/docker.svg" height="40px"/>&nbsp;
+    <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/typescript.svg" height="40px"/>&nbsp;
+    <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/nodejs.svg" height="40px"/>&nbsp;
+    <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/go.svg" height="40px"/>&nbsp;
+    <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/reactjs.svg" height="40px"/>&nbsp;
+    <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/nextjs.svg" height="40px"/>&nbsp;
+    <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/nestjs.svg" height="40px"/>&nbsp;
+    <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/typescript.svg" height="40px"/>&nbsp;
+    <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/jest.svg" height="40px"/>&nbsp;
+    <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/rabbitmq.svg" height="40px"/>&nbsp;
+    <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/mongodb.svg" height="40px"/>&nbsp;
+    <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/postgres.svg" height="40px"/>&nbsp;
+  </div>
+</center>
 
 ### 📚 I’m currently studying:
 - Go

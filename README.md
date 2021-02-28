@@ -30,7 +30,8 @@ I'm a 21 year old Fullstack developer. My github has seen a lot of activity as o
 - Become proficient with Microservices Architecture
 - Get better with MongoDB advanced features
 - Learn K8s and learn how to work better with Docker 🐋
-- Build a project using both Go and Node.js using microservices and focusing on DevOps 
+- Build a project using both Go and Node.js using microservices and focusing on DevOps
+- Maybe try learning Elixir if there's time available 🤔
 
 ### Contact:
 

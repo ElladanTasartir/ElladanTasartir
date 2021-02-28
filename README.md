@@ -26,6 +26,12 @@ I'm a 21 year old Fullstack developer. My github has seen a lot of activity as o
 - Docker
 - Event Driven Architecture
 
+### Goals for 2021:
+- Become proficient with Microservices Architecture
+- Get better with MongoDB advanced features
+- Learn K8s and learn how to work better with Docker 🐋
+- Build a project using both Go and Node.js using microservices and focusing on DevOps 
+
 ### Contact:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ErickMalta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-malta-8597a1197/)](https://www.linkedin.com/in/erick-malta-8597a1197/)

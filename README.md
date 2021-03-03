@@ -42,6 +42,8 @@ I'm a 21 year old Fullstack developer. My github has seen a lot of activity as o
   <a href="https://github.com/ElladanTasartir/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElladanTasartir#version1"/>
   </a>
-  
-  ![Elladan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElladanTasartir&hide=html&layout=compact&show_icons=true&theme=tokyonight)
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElladanTasartir&hide=html&layout=compact&show_icons=true&theme=tokyonight" />
 </p>

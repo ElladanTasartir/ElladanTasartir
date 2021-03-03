@@ -38,7 +38,10 @@ I'm a 21 year old Fullstack developer. My github has seen a lot of activity as o
 [![Linkedin Badge](https://img.shields.io/badge/-ErickMalta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-malta-8597a1197/)](https://www.linkedin.com/in/erick-malta-8597a1197/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickmalta100@gmail.com)](mailto:erickmalta100@gmail.com)
 
-![Elladan's Stats](https://github-readme-stats.vercel.app/api?username=ElladanTasartir&show_icons=true&theme=tokyonight)
-
-![Elladan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElladanTasartir&hide=html&layout=compact&show_icons=true&theme=tokyonight)
-
+<p align="center">
+  <a href="https://github.com/ElladanTasartir/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElladanTasartir#version1"/>
+  </a>
+  
+  ![Elladan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElladanTasartir&hide=html&layout=compact&show_icons=true&theme=tokyonight)
+</p>

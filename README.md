@@ -6,7 +6,7 @@ I'm a 21 year old Fullstack developer. My github has seen a lot of activity as o
 
 ### My stack currently is:
 <center>
-  <div style="display:flex; justify-content:space-around; width: 100%;">
+  <div style="display:flex; justify-content: space-around; width: 100%;">
     <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/docker.svg" height="40px"/>&nbsp;
     <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/typescript.svg" height="40px"/>&nbsp;
     <img src="https://github.com/ElladanTasartir/ElladanTasartir/blob/master/assets/nodejs.svg" height="40px"/>&nbsp;

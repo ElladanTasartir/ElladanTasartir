@@ -25,6 +25,7 @@ I'm a 21 year old Fullstack developer. My github has seen a lot of activity as o
 - Go
 - Docker
 - Event Driven Architecture
+- GraphQL
 
 ### Goals for 2021:
 - [ ] Become proficient with Microservices Architecture

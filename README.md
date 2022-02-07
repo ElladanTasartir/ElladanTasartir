@@ -14,6 +14,4 @@ I'm a 22 year old Fullstack developer. My github has seen a lot of activity as o
 [![Linkedin Badge](https://img.shields.io/badge/-ErickMalta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-malta-8597a1197/)](https://www.linkedin.com/in/erick-malta-8597a1197/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erickmalta100@gmail.com)](mailto:erickmalta100@gmail.com)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElladanTasartir&hide=html&layout=compact&show_icons=true&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElladanTasartir&hide=html&layout=compact&show_icons=true&theme=tokyonight" />

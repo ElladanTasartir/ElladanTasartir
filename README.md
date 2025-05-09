@@ -1,12 +1,11 @@
 ## Hey there! Thanks for coming
 
 ### About me:
- I’m a software engineer with experience in microservices and event driven
- architecture. I’ve worked on large projects over my career using mainly Go,
- Node.js, React, Kafka and other technologies
+ I'm a software engineer with approximately 5 years of experience, primarily focused on backend development. Throughout my career, I’ve worked extensively with Go, gRPC, and Kafka, building and maintaining high-performance 
+ distributed systems and microservices. I also have experience with TypeScript, Node.js, and React, which allows me to navigate across different layers of the application. I have a solid track record of contributing to high- traffic, high-impact projects, playing an active role in architecture, scalability, and system resilience across the companies I've worked with.
 <br>
 
-![Elladan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElladanTasartir&layout=donut&theme=tokyonight)
+![Elladan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ElladanTasartir&layout=compact&theme=tokyonight&hide=javascript,html,css,scss,java,objective-c,ruby,php)
 
 ### Contact:
 
